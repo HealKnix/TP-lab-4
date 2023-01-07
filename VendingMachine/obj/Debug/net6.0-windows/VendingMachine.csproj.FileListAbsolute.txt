@@ -1,0 +1,17 @@
+E:\Технологии программирования\Lab4\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.exe
+E:\Технологии программирования\Lab4\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.deps.json
+E:\Технологии программирования\Lab4\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.runtimeconfig.json
+E:\Технологии программирования\Lab4\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.dll
+E:\Технологии программирования\Lab4\VendingMachine\bin\Debug\net6.0-windows\VendingMachine.pdb
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.dll
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\refint\VendingMachine.dll
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.pdb
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.genruntimeconfig.cache
+E:\Технологии программирования\Lab4\VendingMachine\obj\Debug\net6.0-windows\ref\VendingMachine.dll
